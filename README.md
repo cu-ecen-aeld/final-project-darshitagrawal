@@ -5,7 +5,7 @@ Refer to the given links for project overview and its implementation schedule.
 Click [here](https://github.com/cu-ecen-aeld/final-project-darshitagrawal/wiki/Project-Overview) for Project Overview page.
 
 ## Project Schedule
-Click [here]() for Project Schedule page.
+Click [here](https://github.com/cu-ecen-aeld/final-project-darshitagrawal/wiki/Project-Schedule) for Project Schedule page.
 
 ## Team Members
 Darshit Agrawal (darshit.agrawal@colorado.edu)  

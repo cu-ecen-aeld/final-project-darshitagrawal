@@ -8,5 +8,6 @@ Click [here](https://github.com/cu-ecen-aeld/final-project-darshitagrawal/wiki/P
 Click [here](https://github.com/cu-ecen-aeld/final-project-darshitagrawal/wiki/Project-Schedule) for Project Schedule page.
 
 ## Team Members
-Darshit Agrawal (darshit.agrawal@colorado.edu)  
+Darshit Agrawal (darshit.agrawal@colorado.edu)
 Harshwardhan Singh (harshwardhan.singh@colorado.edu)
+

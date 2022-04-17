@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_SENSORS
+	bool "sensors"
+	help
+	  Includes the i2c user-space driver for MLX90614 temperature sensor and HTU21D humidity sensor.
+	  

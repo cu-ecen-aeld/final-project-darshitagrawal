@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-HUMIDITY_VERSION = e8908a46fc2fc165c71a90b207119fdc2617a1d7
+HUMIDITY_VERSION = d397c3796edc88876f736d6ab393e993ec6afb4e
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:

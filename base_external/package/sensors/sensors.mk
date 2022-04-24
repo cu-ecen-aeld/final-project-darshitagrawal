@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-SENSORS_VERSION = 925fc48fcf537c4623270191dff2ffe9eaab3f0d
+SENSORS_VERSION = f131fda0897078716647fd79d7105a9810051bb7
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:

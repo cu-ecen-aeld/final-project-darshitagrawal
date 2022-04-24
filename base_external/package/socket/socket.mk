@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-SOCKET_VERSION = d2af6b90fa5b185a33e0030b8f009fe851aa4f91
+SOCKET_VERSION = a5926f143e9da91ca523df219aaa06e9fb138d2e
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
@@ -21,7 +21,6 @@ endef
 # TODO add your writer, finder and finder-test utilities/scripts to the installation steps below
 define SOCKET_INSTALL_TARGET_CMDS
 	$(INSTALL) -m 0755 $(@D)/socket/servertest $(TARGET_DIR)/usr/bin
-	$(INSTALL) -m 0755 $(@D)/socket/clienttest $(TARGET_DIR)/usr/bin
 endef
 
 $(eval $(generic-package))

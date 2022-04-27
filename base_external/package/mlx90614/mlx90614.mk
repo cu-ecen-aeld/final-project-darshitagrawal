@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-MLX90614_VERSION = b13c840bd5c7dac7cf66ed2cfc0dde6580bf6ad5
+MLX90614_VERSION = 48d62dd6eb1be2d2baa9641640e9dd420e395fb6
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
